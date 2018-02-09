@@ -1,8 +1,8 @@
 Hi I am ...
 
-<<<<<<< HEAD
+
 dude whatsup???
-=======
+
 
 Hey I m Lulu
->>>>>>> ada89237cc09aab89fe9960827129b5cf67e4cb2
+
